@@ -1,0 +1,4 @@
+Hello, welcome to J.A.R.V.I.S!
+Please enter your crime report:
+prompt: report: Thank you for reporting. Let me see if I need any additional details
+Crime Prediction: Abuse Domestic/Physical Abuse
